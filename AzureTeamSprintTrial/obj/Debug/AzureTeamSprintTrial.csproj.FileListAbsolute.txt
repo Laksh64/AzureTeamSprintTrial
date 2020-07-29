@@ -1,0 +1,7 @@
+E:\DevOps\AzureTeamSprintTrialSolution\AzureTeamSprintTrial\bin\Debug\AzureTeamSprintTrial.exe.config
+E:\DevOps\AzureTeamSprintTrialSolution\AzureTeamSprintTrial\bin\Debug\AzureTeamSprintTrial.exe
+E:\DevOps\AzureTeamSprintTrialSolution\AzureTeamSprintTrial\bin\Debug\AzureTeamSprintTrial.pdb
+E:\DevOps\AzureTeamSprintTrialSolution\AzureTeamSprintTrial\obj\Debug\AzureTeamSprintTrial.csprojAssemblyReference.cache
+E:\DevOps\AzureTeamSprintTrialSolution\AzureTeamSprintTrial\obj\Debug\AzureTeamSprintTrial.csproj.CoreCompileInputs.cache
+E:\DevOps\AzureTeamSprintTrialSolution\AzureTeamSprintTrial\obj\Debug\AzureTeamSprintTrial.exe
+E:\DevOps\AzureTeamSprintTrialSolution\AzureTeamSprintTrial\obj\Debug\AzureTeamSprintTrial.pdb
